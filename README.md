@@ -9,6 +9,30 @@ This project requires several Python packages to run. All dependencies are liste
 - Python 3.10.14
 - pip (Python package installer)
 
+## Dataset
+
+1. Download the compressed dataset file
+
+2. Place the compressed file in your project directory
+
+3. Extract the contents:
+   ```bash
+   # For .zip files
+   unzip dataset.zip -d input/
+
+   # For .tar.gz files
+   tar -xzf dataset.tar.gz -d input/
+   ```
+
+4. Verify the folder structure:
+   ```
+   project_root/
+   ├── input/
+   │   ├── train/
+   │   ├── test/
+   │   └── ...
+   ```
+
 ## Installation
 
 To install all required dependencies, run the following command in your terminal:
