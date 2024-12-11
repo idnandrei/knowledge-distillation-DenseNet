@@ -1,0 +1,14 @@
+# dataset folder and all its contents
+input/
+input/*
+
+
+# remove saved best models
+best_model/
+best_models/*
+
+best_model_og/
+best_models_og/*
+
+best_model_og_with_class_weights/
+best_model_og_with_class_weights/*
