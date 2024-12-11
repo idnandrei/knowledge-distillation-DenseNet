@@ -6,7 +6,7 @@ This project requires several Python packages to run. All dependencies are liste
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.10.14
 - pip (Python package installer)
 
 ## Installation
